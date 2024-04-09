@@ -3,6 +3,8 @@ import {Container, Row, Col, Button, label,Form} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Img1 from '../Images/vintergäck.jpg';
 import Img3 from '../Images/me.jpg';
+import cert from '../Images/certificateOfProfession.pdf'
+
 export default function About() {
   return ( 
     <container className="text-center my-5">
@@ -26,9 +28,16 @@ export default function About() {
           </p>
         </Row>
         <Row xl={3}>
+          <Col>
           <a href="https://karinastrand.github.io/cv_react/" target="_blank">
           <Button >Download CV</Button>
           </a>
+          </Col>
+          <Col>
+          <a href={cert} target="_blank">
+          <Button >Download Certificate of Profession</Button>
+          </a>
+          </Col>
         </Row>
       </Col>
       <Col>
