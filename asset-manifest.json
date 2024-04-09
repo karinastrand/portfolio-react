@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.ff02f4b5.css",
-    "main.js": "/portfolio-react/static/js/main.6119f8ec.js",
+    "main.js": "/portfolio-react/static/js/main.d4d11be1.js",
     "static/js/453.906b0208.chunk.js": "/portfolio-react/static/js/453.906b0208.chunk.js",
     "static/media/vintergäck.jpg": "/portfolio-react/static/media/vintergäck.88c70c26837b5b2bd63c.jpg",
     "static/media/me.jpg": "/portfolio-react/static/media/me.4d23f5282e4ba5d85d2e.jpg",
     "static/media/ros.jpg": "/portfolio-react/static/media/ros.f0395c892ff522c5008e.jpg",
     "static/media/munamii.jpg": "/portfolio-react/static/media/munamii.7359ed61255d76510629.jpg",
     "static/media/aworldofbook.png": "/portfolio-react/static/media/aworldofbook.c88d412ddaa41a549303.png",
+    "static/media/certificateOfProfession.pdf": "/portfolio-react/static/media/certificateOfProfession.c74bbf3448b7ecb91b4d.pdf",
     "static/media/logo.jpg": "/portfolio-react/static/media/logo.54b17a6dede0c7790632.jpg",
     "index.html": "/portfolio-react/index.html",
     "main.ff02f4b5.css.map": "/portfolio-react/static/css/main.ff02f4b5.css.map",
-    "main.6119f8ec.js.map": "/portfolio-react/static/js/main.6119f8ec.js.map",
+    "main.d4d11be1.js.map": "/portfolio-react/static/js/main.d4d11be1.js.map",
     "453.906b0208.chunk.js.map": "/portfolio-react/static/js/453.906b0208.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.6119f8ec.js"
+    "static/js/main.d4d11be1.js"
   ]
 }
