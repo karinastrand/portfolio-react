@@ -19,7 +19,7 @@ export default function Contact() {
       <Row >
         <Col>
             <Envelope />
-            karinmastrand@gmail.com
+            <span> karinastrand@yahoo.se</span>
         </Col>
         </Row>
     </Col>

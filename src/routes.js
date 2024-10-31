@@ -6,7 +6,7 @@ import Works from './pages/Works';
 
 const routes=[
     {path:'/', component:<Home />,exact:true},
-    {path: '/about', component: <About/>},
+  
     {path: '/works', component: <Works/>},
     {path: '/contact', component: <Contact/>},
     {path: '*', component: <Home/>}

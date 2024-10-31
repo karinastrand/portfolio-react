@@ -17,7 +17,7 @@ export default function Navigation() {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className='me-auto'>
                     <Nav.Link as={NavLink} to="/">Home</Nav.Link>
-                    <Nav.Link as={NavLink} to="/about">About me</Nav.Link>
+                    
                     <Nav.Link as={NavLink} to="/works">Works</Nav.Link>
                     <Nav.Link as={NavLink} to="/contact">Contact</Nav.Link>
                 </Nav>
